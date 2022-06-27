@@ -1,5 +1,5 @@
 {
-    "name": "sukhilss/laravel-odbc-hive",
+    "name": "maddyscout/laravel-odbc-hive",
     "description": "laravel-odbc-hive is a simple hive service provider for Laravel. It provides hive Connection by extending the Illuminate Database component of the laravel framework.",
     "keywords": [
         "Laravel",
@@ -15,10 +15,6 @@
         "role": "Developer"
     }
     ],
-    "require": {
-        "php": "^7.2",
-        "illuminate/database": "^6.0"
-    },
     "require-dev": {
     },
     "autoload": {
